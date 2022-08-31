@@ -1,0 +1,29 @@
+{
+  "arr": [
+    {
+      "price": "100$",
+      "img": "../assets/images/a.jpg",
+      "tittle": "item_1"
+    },
+    {
+      "price": "101$",
+      "img": "../assets/images/b.jpeg",
+      "tittle": "item_2"
+    },
+    {
+      "price": "102$",
+      "img": "../assets/images/c.jpeg",
+      "tittle": "item_3"
+    },
+    {
+      "price": "103$",
+      "img": "../assets/images/e.jpg",
+      "tittle": "item_4"
+    },
+    {
+      "price": "104$",
+      "img": "../assets/images/f.webp",
+      "tittle": "item_5"
+    }
+  ]
+}
